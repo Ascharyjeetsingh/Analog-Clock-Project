@@ -1,3 +1,4 @@
-# Projects
+# Analog clock
 live project link
 https://ascharyjeetsingh.github.io/Analog-Clock-Project/
+Creating an analog clock using HTML, CSS, and JavaScript is a foundational front-end project that helps developers practice core skills in all three languages. The project involves structuring the clock's static visual elements with HTML, styling its appearance (including the face, center pivot, and hands) and defining their initial positions with CSS, and finally using JavaScript to manage the clock's real-time functionality. JavaScript calculates the current time and dynamically rotates the clock hands at one-second intervals using CSS transforms, bringing the static display to life. This hands-on project offers practical experience in working with time functions, CSS transformations, and responsive design concepts. 
